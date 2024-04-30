@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.darkBlue{
+    height: 600px;
+    width: 100%;
+    padding-left: 50px;
+    background-color: rgb(10, 10, 66);
+    
+}
+
+.logo{
+    color: white;
+    float: left;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link{
+   padding-top: 10px;
+   margin-left: 500px;
+   float: left;
+}
+
+.sign{
+    color: white;
+    background-color: rgb(40, 144, 224);
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+.awesome{
+    color: white;
+    width: 500px;
+  
+    float: left;
+}
+
+.content{
+    padding-top: 100px;
+    width:  100%;
+    clear: both;
+}
+
+.image{
+    width: 500px;
+    background-color: white;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+}
+.Header{
+    height: 150px;
+    width: 100%;
+    background-color:blue;
+    text-align: center;
+    font-size: 40px;
+}
+main{
+    text-align: center;
+    color:black;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.column1{
+    height: 600px;
+    width: 500px;
+    background-color: skyblue;
+    float: left;
+   
+}
+
+.column2{
+        height: 600px;
+        width: 400px;
+        background-color:pink;
+        float: left;
+        }
+
+
+.Footer{
+            clear: both;
+            height: 100px;
+            width: 100%;
+            background-color: gold;
+        }
+
